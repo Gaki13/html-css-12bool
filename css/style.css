@@ -16,3 +16,7 @@
 [class*="col"] .row{
     padding: 15px;
 }
+
+.container{
+    margin-bottom: 20px;
+}
